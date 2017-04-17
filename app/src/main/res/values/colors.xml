@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1e90ff</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="nutXanhDuong">#1e90ff</color>
+    <color name="nutXanhLa">#00BB00</color>
+    <color name="nutXanhXam">#4a5968</color>
+    <color name="trang">#FFFFFF</color>
+    <color name="btnShowBackColor">#dfdffa</color>
+    <color name="fullManHinh">#F5F5F5</color>
+    <color name="hieuUngButton">#979ba7</color>
+</resources>
